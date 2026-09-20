@@ -12,6 +12,7 @@
 ---
 
 ![Dual-Spectrum Phishing Guardian スクリーンショット](./jev_fraud_detection.png)
+例文提供（写真右側）[茨城県警察公式チャンネル[(https://www.youtube.com/watch?v=cBVgIOqm4bA)]]
 
 ---
 
