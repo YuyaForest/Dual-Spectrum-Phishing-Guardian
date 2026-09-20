@@ -1,4 +1,4 @@
-# Dual-Spectrum Phishing Guardian
+# JEV-Dual-Spectrum Phishing Guardian
 
 > **TypeSafe AI (JEV System One) 高速推論エンジン搭載**  
 > 特殊詐欺・標的型フィッシング検知 / 「従来型ソーシャルエンジニアリング (V-Triad)」×「生成AI偽装リスク」のデュアルスペクトラム分析プラットフォーム
