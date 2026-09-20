@@ -1,0 +1,6 @@
+{
+  "name": "Dual-Spectrum Phishing Guardian",
+  "description": "TypeSafe AI (JEV) を活用した特殊詐欺・フィッシング分析アプリ。従来型ソーシャルエンジニアリングと生成AI偽装リスクをデュアルスペクトラムでスコアリング・可視化します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
